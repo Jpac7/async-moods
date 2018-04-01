@@ -1,0 +1,14 @@
+{
+    "Destinations": [
+        {
+            "Place": "Thailand",
+            "Duration": 450,
+            "Experiences": []
+        },
+        {
+            "Place": "Philippines",
+            "Duration": 500,
+            "Experiences": []
+        }
+    ]
+}
